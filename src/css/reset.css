@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 30px;
+    
+}
+
+ul{
+    list-style: none;
+}
